@@ -1,0 +1,111 @@
+<html>
+<head>
+   
+       <title>ARCADE GAMESHACKERS</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#00FFCC" vlink="#FF00FF">
+
+
+    <h1 align="center"><font face="Verdana" color="#00FFCC">ARCADE GAMESHACKERS</font></h1>
+    
+    
+    <p align="center">
+        <img src="tra" width="300" heigth "300"> 
+             
+    </p>
+
+    
+    <p align="center">
+        <a href="#inicio">Inicio</a> | 
+        <a href="#productos">Productos</a> | 
+        <a href="#contacto">Registro</a>
+    </p>
+
+    <hr size="4" color="#00FFCC">
+
+    <a name="inicio"></a>
+    <h2><font face="Arial" color="#FF00FF">Sobre Nosotros</font></h2>
+    <p>Bienvenidos a la mejor tienda de videojuegos. Aquí encontrarás calidad y excelentes precios.</p>
+
+
+    <h3><font color="#00FFCC">Nuestros Servicios Destacados:</font></h3>
+    <ul>
+        <li>Venta de consolas de última generación (PS5, Xbox Series X, Switch).</li>
+        <li>Mantenimiento preventivo de controles y consolas.</li>
+        <li>Preventa exclusiva de títulos AAA.</li>
+        <li>Tarjetas de regalo para Steam, PlayStation y Xbox.</li>
+        <li>Torneos locales de juegos de pelea y deportes.</li>
+    </ul>
+
+    <hr>
+
+
+    <p align="center">
+        <img src="traca">
+    </p>
+
+  
+    <a name="productos"></a>
+    <h2>Catálogo de Temporada</h2>
+    <table border="1" cellspacing="0" cellpadding="10" width="80%" align="center">
+        <tr bgcolor="#00FFCC">
+            <th><font color="black">Juego</font></th>
+            <th><font color="black">Plataforma</font></th>
+            <th><font color="black">Precio</font></th>
+        </tr>
+        <tr>
+            <td>Spider-Man 2</td>
+            <td>PS5</td>
+            <td>$1,299</td>
+        </tr>
+        <tr>
+            <td>Halo Infinite</td>
+            <td>Xbox / PC</td>
+            <td>$900</td>
+        </tr>
+ <td>Grand Theft Auto V (GTA 5)</td>
+            <td>Xbox / PC</td>
+            <td>$800</td>
+        </tr>
+<td>Call of Duty: Black Ops 6</td>
+            <td>Xbox / PC</td>
+            <td>$1300</td>
+        </tr>
+<td>Call of Duty: Black Ops 7 </td>
+            <td>Xbox / PC</td>
+            <td>$1999</td>
+        </tr>
+<td>Call of Duty: Modern Warfare III</td>
+            <td>Xbox / PC</td>
+            <td>$1200</td>
+        </tr>
+<td>Call of Duty: Modern Warfare II </td>
+            <td>Xbox / PC</td>
+            <td>$300</td>
+        </tr>
+
+    </table>
+
+    <hr>
+
+   
+    <a name="contacto"></a>
+    <h2>Registro de Clientes</h2>
+    <form action="mailto:tu-correo@ejemplo.com" method="post">
+        Nombre completo: <input type="text" name="nom" size="40"><br><br>
+        ¿Cómo nos conociste?<br>
+        <input type="radio" name="r" value="fb"> Facebook 
+        <input type="radio" name="r" value="ig"> Instagram 
+        <input type="radio" name="r" value="ot"> Otro<br><br>
+        Comentarios adicionales:<br>
+        <textarea name="comen" rows="3" cols="50"></textarea><br><br>
+        <input type="submit" value="Enviar Datos">
+        <input type="reset" value="Limpiar">
+    </form>
+
+    <hr>
+    <p align="right"><i>Programación Web - Actividad 1.2.1</i></p>
+
+</body>
+</html>
